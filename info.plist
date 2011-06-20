@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Stylus - JackBB</string>
+	<key>ordering</key>
+	<array>
+		<string>A80CE868-C1D2-48A5-8B3C-5468D03EB395</string>
+		<string>8A96ADB7-7992-4646-A29E-F27F5435B5C5</string>
+	</array>
+	<key>uuid</key>
+	<string>1EC1E09F-C42F-44D5-AD4F-5AE61D87EFFE</string>
+</dict>
+</plist>
