@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>content</key>
+	<string>animation-play-state paused$0</string>
+	<key>name</key>
+	<string>animation-play-state paused</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>aps</string>
+	<key>uuid</key>
+	<string>C3030255-7248-46F5-B132-4C077355ACB8</string>
+</dict>
+</plist>

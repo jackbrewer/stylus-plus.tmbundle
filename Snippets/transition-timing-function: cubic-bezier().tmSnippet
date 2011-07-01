@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>transition-timing-function cubic-bezier(${1:0.25}, ${2:0.1}, ${3:0.25}, ${4:1.0})$0</string>
+	<key>name</key>
+	<string>transition-timing-function cubic-bezier()</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>ttfcb</string>
+	<key>uuid</key>
+	<string>7594838A-6E0D-444B-885D-6785746BF5FD</string>
+</dict>
+</plist>

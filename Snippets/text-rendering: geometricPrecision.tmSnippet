@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>text-rendering geometricPrecision$0</string>
+	<key>name</key>
+	<string>text-rendering geometricPrecision</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>trgp</string>
+	<key>uuid</key>
+	<string>E9F83964-1C4A-426D-8E38-5B7742728CDE</string>
+</dict>
+</plist>

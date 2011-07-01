@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>clip rect(${1:10}px, ${2:10}px, ${3:10}px, ${4:10}px)</string>
+	<key>name</key>
+	<string>clip rect()</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>cl</string>
+	<key>uuid</key>
+	<string>DE7BEDA1-D26C-484A-894B-7B6F51ADA3C6</string>
+</dict>
+</plist>

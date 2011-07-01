@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>background-repeat repeat$0</string>
+	<key>name</key>
+	<string>background-repeat repeat</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>bgrr</string>
+	<key>uuid</key>
+	<string>E478DB3E-1913-422A-BA24-17C534EAD93D</string>
+</dict>
+</plist>

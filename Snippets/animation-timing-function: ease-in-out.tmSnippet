@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>content</key>
+	<string>animation-timing-function ease-in-out$0</string>
+	<key>name</key>
+	<string>animation-timing-function ease-in-out</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>atf</string>
+	<key>uuid</key>
+	<string>4C2EF276-8A11-492C-A6F4-62E352B37BD6</string>
+</dict>
+</plist>

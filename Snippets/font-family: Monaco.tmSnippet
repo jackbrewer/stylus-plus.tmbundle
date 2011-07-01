@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>font-family Monaco, Consolas, "Lucida Console", monospace$0</string>
+	<key>name</key>
+	<string>font-family Monaco</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>ffm</string>
+	<key>uuid</key>
+	<string>92484C07-1279-457E-B24A-6D95B8B95262</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>transform skewY(${1:30}deg)$0</string>
+	<key>name</key>
+	<string>transform skewY()</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>tfsy</string>
+	<key>uuid</key>
+	<string>A51D9C78-6104-47BD-A397-0919D99CFBEE</string>
+</dict>
+</plist>

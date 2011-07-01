@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>transition-timing-function linear$0</string>
+	<key>name</key>
+	<string>transition-timing-function linear</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>ttfl</string>
+	<key>uuid</key>
+	<string>55FD29BC-A128-4D37-BB84-4C2636132618</string>
+</dict>
+</plist>

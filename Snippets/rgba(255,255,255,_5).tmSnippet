@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rgba(${1:255},${2:255},${3:255},${4:.5})$0</string>
+	<key>name</key>
+	<string>rgba(255,255,255,.5)</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>rgba</string>
+	<key>uuid</key>
+	<string>6FFC5FCE-AECB-4882-9238-72C47D3F2663</string>
+</dict>
+</plist>

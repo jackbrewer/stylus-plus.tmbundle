@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>transition-delay 1s$0</string>
+	<key>name</key>
+	<string>transition-delay</string>
+	<key>scope</key>
+	<string>source.stylus</string>
+	<key>tabTrigger</key>
+	<string>td</string>
+	<key>uuid</key>
+	<string>F2588CA1-5AAA-4A2A-94A5-D873BCDB1415</string>
+</dict>
+</plist>
